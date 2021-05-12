@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenDemoTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>72db29db-3f1c-47dd-b7f2-d5f3ae62c59d</testCaseGuid>
+   <variable>
+      <defaultValue>'Rutuja'</defaultValue>
+      <description></description>
+      <id>3139ff58-548f-4f53-a7a5-5be10d2f186c</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+</TestCaseEntity>
